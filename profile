@@ -9,3 +9,5 @@ raghuveer-javaji/raghuveer-javaji is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 git clone https://github.com/Sethuram52001/portfolio.git
+npm install
+gatsby develop
